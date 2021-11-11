@@ -15,4 +15,4 @@ Recipe pages will include the following:
 
 ## Learnings
 
-The biggest take away from completing this project was getting into the habit of making git commits while coding instead of just sitting down and writing everything out in one go.
+The biggest take away from completing this project was getting into the habit of making git commits while coding instead of just sitting down, writing everything out, and then uploading the finished product with no version control history.
