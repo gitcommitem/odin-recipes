@@ -1,5 +1,5 @@
 # TOP HTML Foundations Project - Recipe Site
-2021/11/10
+2021/11/10 ~ 2021/11/11
 
 ## Objective
 
@@ -12,3 +12,7 @@ Recipe pages will include the following:
 * Description of the recipe
 * Ingredients list
 * Preparation and cooking steps
+
+## Learnings
+
+The biggest take away from completing this project was getting into the habit of making git commits while coding instead of just sitting down and writing everything out in one go.
